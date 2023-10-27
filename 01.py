@@ -8,4 +8,4 @@ print(type(a))
 d = int(b)
 print(d)
 
-print(round(b, 3)) #округление
+print(round(b, 3)) #округление3
