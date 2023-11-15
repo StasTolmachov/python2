@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1db94e01-6ea1-412a-a1cd-449de0d8233b" name="Changes" comment="lesson02 start">
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson02.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02/lesson02.py" afterDir="false" />
+    <list default="true" id="1db94e01-6ea1-412a-a1cd-449de0d8233b" name="Changes" comment="task1">
+      <change afterPath="$PROJECT_DIR$/lesson02/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700034531177</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task1">
+      <option name="closed" value="true" />
+      <created>1700035779597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700035779597</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +195,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="while" />
     <MESSAGE value="lesson02 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson02 start" />
+    <MESSAGE value="task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1" />
   </component>
 </project>
