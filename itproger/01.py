@@ -62,3 +62,7 @@
 #
 # print(userList)
 
+list_1 = [1, 2, 3, 4, 5, 3]
+k = 3
+# 1
+print(list_1.count(k))
